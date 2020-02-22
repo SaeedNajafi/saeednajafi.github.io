@@ -1,2 +1,3 @@
 # saeednajafi.github.io
-HomePage
+Hey, check my recent resume here :)
+saeednajafi.github.io/resume.pdf
