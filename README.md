@@ -2,9 +2,9 @@
 Welcome to my minimal academic homepage :)
 <br> <br>
 I have started my Ph.D. under the supervision of Dr. [Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/) at the University of Alberta.
-I am currently investigating question-anwering systems for machine comprehension.
-<br>
-Previously, I worked at [BenchSci](https://www.benchsci.com/) as an ML engineer between 2018 and 2020.
+I am currently investigating Question-Anwering systems for Machine Comprehension.
+<br> <br>
+Previously, I worked at [BenchSci](https://www.benchsci.com/) as an ML engineer (2018-2020).
 I also obtained my M.Sc. in Computing Science at the University of Alberta, where I started my
 research in NLP under the supervision of the Professors [Colin Cherry](https://sites.google.com/site/colinacherry/) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/).
 <br>
