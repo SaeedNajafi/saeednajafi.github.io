@@ -1,6 +1,6 @@
 # Hello!
 
-<img src="https://github.com/SaeedNajafi/saeednajafi.github.io/blob/master/my_pic.jpeg" width="250" height="250">
+<img src="./my_pic.jpeg" width="250" height="250">
 
 Welcome to my minimal academic homepage :)
 <br> <br>
