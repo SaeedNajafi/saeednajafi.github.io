@@ -1,4 +1,7 @@
 # Hello!
+
+<img src="https://github.com/SaeedNajafi/saeednajafi.github.io/blob/master/my_pic.jpeg" width="250" height="250">
+
 Welcome to my minimal academic homepage :)
 <br> <br>
 My name is Saeed Najafi and I have started my Ph.D. under the supervision of Dr. [Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/) at the University of Alberta.
