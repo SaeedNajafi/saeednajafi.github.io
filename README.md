@@ -13,4 +13,4 @@ research in NLP under the supervision of the Professors [Colin Cherry](https://s
 <br>
 Before joining UofA, I did my B.Sc. in Software Engineering at the Amirkabir University of Technology, Iran (2012-2016).
 <br> <br>
-Please check my latest [CV](./CV.pdf), and feel free to contact me if you have any questions.
+Please check my latest [resume](./resume.pdf), and feel free to contact me if you have any questions.
