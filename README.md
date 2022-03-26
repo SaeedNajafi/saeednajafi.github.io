@@ -17,4 +17,4 @@ Before joining UofA, I did my B.Sc. in Software Engineering at the Amirkabir Uni
 
 You can find my latest CV [here](https://github.com/SaeedNajafi/saeednajafi.github.io/blob/master/cv.pdf).
 <br>
-I always welcome new oppurtunities! Please feel free to contact me if you have any questions.
+I always welcome new opportunities! Please feel free to contact me if you have any questions.
