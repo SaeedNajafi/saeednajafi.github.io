@@ -10,8 +10,7 @@ I am currently investigating how to generate automatic questions for unseen rela
 <br> <br>
 Previously, I worked at [BenchSci](https://www.benchsci.com/) as an ML engineer (2018-2020).
 I also obtained my M.Sc. in Computing Science at the University of Alberta, where I started my
-research in NLP under the supervision of the Professors [Colin Cherry](https://sites.google.com/site/colinacherry/) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/).
-<br> My M.Sc. [thesis](https://github.com/SaeedNajafi/ac-tagger/blob/master/saeed-thesis-tosubmit.pdf) was about the application of reinforcement learning to resolve the exposure bias in sequence labeling models.
+research in NLP under the supervision of the Professors [Colin Cherry](https://sites.google.com/site/colinacherry/) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/). My M.Sc. [thesis](https://github.com/SaeedNajafi/ac-tagger/blob/master/saeed-thesis-tosubmit.pdf) was about the application of reinforcement learning to resolve the exposure bias in sequence labeling models.
 <br>
 Before joining UofA, I did my B.Sc. in Software Engineering at the Amirkabir University of Technology, Iran (2012-2016).
 <br> <br>
