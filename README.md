@@ -5,7 +5,6 @@
 Welcome to my academic homepage!
 <br> <br>
 I'm Saeed Najafi, a 5th-year PhD candidate at the University of Alberta, thrilled to be working under the supervision of Dr. [Alona Fyshe](https://sites.google.com/ualberta.ca/representationslab/home).
-
 <br>
 
 I'm also a research intern at the Huawei Noah's Ark Lab in Toronto, where we're exploring methods to improve the efficiency of Large Language Models (LLMs) during both training and inference.  Previously, I gained valuable experience as an ML engineer at [BenchSci](https://www.benchsci.com), and as an intern at the [Vector Institute](https://github.com/VectorInstitute/PromptEngineering) and [Google](https://arvr.google.com).
