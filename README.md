@@ -1,6 +1,6 @@
 # Hello!
 
-<img src="./my_pic.jpeg" width="250" height="334">
+<img src="./my_pic.jpeg" width="300" height="300">
 
 Welcome to my academic homepage!
 <br> <br>
